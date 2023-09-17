@@ -1,5 +1,6 @@
 # Health_Insurance_Price_Prediction
 What:
+
 Project Title: Health Insurance Price Prediction
 
 Description:
@@ -21,6 +22,7 @@ Model Evaluation: Assessing model performance using metrics like Mean Absolute E
 
 
 How:
+
 Technical Stack:
 
 Programming Languages: Python
@@ -30,6 +32,7 @@ Data Visualization: Matplotlib, Seaborn
 
 
 Why:
+
 Purpose:
 
 The project aims to provide a valuable tool for individuals and insurance companies to estimate health insurance prices accurately.
