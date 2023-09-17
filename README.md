@@ -8,12 +8,18 @@ The Health Insurance Price Prediction project is an application of machine learn
 Key Components:
 
 Data Collection: Gathering a comprehensive dataset containing information about policyholders, including their attributes and insurance premiums.
+
 Data Preprocessing: Cleaning, handling missing values, and encoding categorical variables for analysis.
+
 Exploratory Data Analysis (EDA): Gaining insights from data visualization and statistical analysis to understand relationships between variables.
+
 Feature Engineering: Creating relevant features and selecting the most important ones for modeling.
+
 Model Building: Developing machine learning models (e.g., regression, decision trees, or ensemble methods) for price prediction.
+
 Model Evaluation: Assessing model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
-Deployment: Creating a user-friendly interface or API for end-users to input their information and receive insurance price estimates.
+
+
 How:
 Technical Stack:
 
